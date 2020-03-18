@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: elbasso/podinfo
-      tag: dev-94pqkkcd
+      tag: dev-8tgau4ut
     replicaCount: 1
     hpa:
       enabled: false

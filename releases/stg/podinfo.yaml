@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: elbasso/podinfo
-      tag: stg-2wrlcskm
+      tag: stg-ebjzdpxb
     replicaCount: 2
     hpa:
       enabled: true
